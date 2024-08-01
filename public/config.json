@@ -1,0 +1,10 @@
+{
+  "dataApiHostName": "apimapicwetest.data.westeurope.azure-apicenter.ms/workspaces/default",  
+  "title": "Akzonobel API portal",
+  "authentication": {
+      "clientId": "6139f361-854a-4ebf-8740-495dcaf5dcf4",
+      "tenantId": "aab2e961-1f45-4717-9a42-8f87802af9bd",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  }
+}
